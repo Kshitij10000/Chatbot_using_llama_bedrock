@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 - AWS account with necessary permissions
 - AWS CLI configured with your AWS credentials
 - Docker installed on your local machine
-- Python 3.8 or later installed
+- Python 3.12
 
 ## Architecture
 
