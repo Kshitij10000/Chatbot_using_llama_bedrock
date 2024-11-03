@@ -15,7 +15,7 @@ This project demonstrates how to build and deploy a chatbot using the Llama3 mod
 
 ## Introduction
 
-This project is a simple yet powerful chatbot application leveraging the Llama3 language model and AWS Bedrock. The chatbot can handle various natural language processing tasks and provide intelligent responses.
+This project is a simple yet powerful chatbot application leveraging the Llama3 or any other Llama models language model and AWS Bedrock. The chatbot can handle various natural language processing tasks and provide intelligent responses.
 
 ## Features
 
